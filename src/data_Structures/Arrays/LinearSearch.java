@@ -22,7 +22,7 @@ public class LinearSearch {
                 return index;
             }
         }
-        //if target element not found i the array
+        //if target element not found in the array
         return -2;
     }
 }
